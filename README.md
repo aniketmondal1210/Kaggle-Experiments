@@ -97,14 +97,11 @@ This repository is mainly for learning purposes, but suggestions and improvement
 If you find something interesting or want to collaborate, feel free to open an issue or pull request.
 
 👤 Author
-
+```
 Aniket Mondal
-
+```
 GitHub: https://github.com/aniketmondal1210
 
 ⭐ If you find this repository useful, consider giving it a star!
 
 ---
-
-If you want, I can also make a **🔥 stronger README for internships / recruiters** (with badges, project table, and preview images). It will look **10× more professional on GitHub.**
-::contentReference[oaicite:1]{index=1}
