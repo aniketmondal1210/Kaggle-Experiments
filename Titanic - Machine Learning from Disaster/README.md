@@ -93,6 +93,7 @@ Possible models:
 ---
 
 ## 📁 Repository Structure
+```
 Titanic - Machine Learning from Disaster/
 │
 ├── Titanic.ipynb
@@ -100,7 +101,7 @@ Titanic - Machine Learning from Disaster/
 ├── test.csv
 ├── submission.csv
 └── README.md
-
+```
 ---
 
 ## 📊 Goal
