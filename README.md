@@ -82,14 +82,14 @@ jupyter notebook
 📚 Learning Focus
 
 Topics explored in this repository:
-
+```
 a. Data preprocessing
 b. Machine learning fundamentals
 c. Feature engineering
 d. Model evaluation
 d. Data visualization
 e. Kaggle dataset experimentation
-
+```
 🤝 Contributions
 
 This repository is mainly for learning purposes, but suggestions and improvements are welcome.
