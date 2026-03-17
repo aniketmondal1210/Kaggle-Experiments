@@ -69,31 +69,26 @@ Each notebook generally includes:
 ```bash
 git clone https://github.com/aniketmondal1210/Kaggle-Experiments.git
 ```
-Navigate to the folder
-
+2. Navigate to the folder
+```
 cd Kaggle-Experiments
-
-Open Jupyter Notebook
-
+```
+3 Open Jupyter Notebook
+```
 jupyter notebook
-
-Run the notebooks step by step.
+```
+4. Run the notebooks step by step.
 
 📚 Learning Focus
 
 Topics explored in this repository:
 
-Data preprocessing
-
-Machine learning fundamentals
-
-Feature engineering
-
-Model evaluation
-
-Data visualization
-
-Kaggle dataset experimentation
+a. Data preprocessing
+b. Machine learning fundamentals
+c. Feature engineering
+d. Model evaluation
+d. Data visualization
+e. Kaggle dataset experimentation
 
 🤝 Contributions
 
